@@ -1,8 +1,8 @@
 ### MCP 1.8.8 Capes
 ## How to draw ?
 
-1. Create a packet, for this case, ill create a packet named ```github``` <br>
-2. In that packet; <br>
+1. Create a package, for this case, ill create a packet named ```github``` <br>
+2. In that package; <br>
  - Create a new Class, for this case, ill name it ```Capes``` <br>
  - Paste the code into that class and change the class name and the resource location <br>
  - I assume you know how ```ResourceLocation``` works, so make the cape and move it to the correct folder <br>
